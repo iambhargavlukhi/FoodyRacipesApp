@@ -3,3 +3,6 @@ This app is developed by Bhargav Lukhi and make for purpose best and healthy all
 
 *Use Only Education Purpose*  
 *All Rights Resered By Brs Offical*
+
+
+Available In Google Play Store Link

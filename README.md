@@ -11,4 +11,4 @@ https://play.google.com/store/apps/details?id=com.bhargav.worldfamousfoodyrecipe
 
 # Foody App ScreenShot
 
-'[]file:///D:/Photoshop/Food%20App%20Banner/ss/1.png
+'[](file:///D:/Photoshop/Food%20App%20Banner/ss/1.png)

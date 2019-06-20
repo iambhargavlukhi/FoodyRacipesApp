@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.haerul.foodyrecipe.view.home.about">
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:background="@color/colorPrimaryLight" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginRight="40dp"
+            app:cardCornerRadius="10sp"
+            app:contentPaddingBottom="15dp"
+            app:contentPaddingLeft="15dp"
+            app:contentPaddingRight="15dp"
+            app:contentPaddingTop="45dp">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="144dp"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="361dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="110dp"
+                    android:layout_marginTop="20dp"
+                    android:text="Bhargav Lukhi"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="Our Mission for Developed This App Basically Make Good Health Food Or Meal At Home "
+                    android:textSize="17sp"
+
+                    />
+
+            </LinearLayout>
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/contect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contect : "
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="370dp"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/contect"
+        android:text="lukhibhargav16@gmail.com"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:textSize="21dp"
+        android:textStyle="bold"
+        android:padding="5dp"
+        />
+    <TextView
+        android:id="@+id/number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mail"
+        android:text="8347717912"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:textSize="21dp"
+        android:textStyle="bold"
+        android:padding="5dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/number"
+        android:text="All Rights (C) Reserve By Brs offical"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:textSize="16dp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:padding="5dp"
+        />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/circleview"
+        android:layout_width="170dp"
+        android:layout_height="230dp"
+        android:layout_marginLeft="100dp"
+        android:src="@drawable/brs1"
+        app:civ_border_color="@color/colorPrimaryLight"
+        app:civ_border_width="2dp">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+
+
+
+
+</RelativeLayout>
+

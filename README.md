@@ -9,6 +9,3 @@ Available In Google Play Store Link
 
 https://play.google.com/store/apps/details?id=com.bhargav.worldfamousfoodyrecipeapp
 
-# Foody App ScreenShot
-
-![](https://drive.google.com/drive/u/0/folders/1n7lyCDbXa48NSIT95Y_AIGKXGOHs30Zk)

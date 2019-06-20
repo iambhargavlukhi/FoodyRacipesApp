@@ -1,0 +1,22 @@
+<!--
+  Developed by bhargav Lukhi
+  Last modified 07/06/2019 3:24 PM
+  Subscribe : https://www.youtube.com/brstechnicalstudio
+  Copyright (c) 2019. All rights reserved
+  -->
+<resources>
+    <string name="app_name">Foody Recipes</string>
+    <string name="search_your_recipes">Search Your Recipes…</string>
+    <string name="meal_categories">Meal Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">INGREDIENTS</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="Unitid">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by bhargav Lukhi
+  Last modified 07/06/2019 3:24 PM
+  Subscribe : https://www.youtube.com/brstechnicalstudio
+  Copyright (c) 2019. All rights reserved
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_favorite_border"
+        app:showAsAction="always"/>
+</menu>

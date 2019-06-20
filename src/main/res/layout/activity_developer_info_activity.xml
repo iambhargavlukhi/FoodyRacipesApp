@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by bhargav Lukhi
+  Last modified 07/06/2019 3:24 PM
+  Subscribe : https://www.youtube.com/brstechnicalstudio
+  Copyright (c) 2019. All rights reserved
+  -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.home.developer_info_activity"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/splash"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="110dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Foody Recipe"
+        android:textColor="@android:color/black"
+        android:textSize="30dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="-170dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Version 1.0"
+        android:textColor="@android:color/black"
+        android:textSize="23dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginLeft="-145dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="© 2019 Foody Recipe inc. "
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="-190dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="All rights reserved. "
+        android:textColor="@android:color/black"
+        android:textSize="25dp"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="-250dp"/>
+
+
+
+</LinearLayout>

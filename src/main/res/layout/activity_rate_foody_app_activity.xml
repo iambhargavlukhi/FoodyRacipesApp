@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by bhargav Lukhi
+  Last modified 07/06/2019 3:24 PM
+  Subscribe : https://www.youtube.com/brstechnicalstudio
+  Copyright (c) 2019. All rights reserved
+  -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.home.rate_foody_app_activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bhargav lukhi"
+        android:textAlignment="center"
+        android:layout_marginTop="350dp"
+        android:textSize="40dp"
+        android:layout_marginLeft="100dp"/>
+</LinearLayout>

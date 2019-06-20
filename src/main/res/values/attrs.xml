@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by bhargav Lukhi
+  Last modified 07/06/2019 3:24 PM
+  Subscribe : https://www.youtube.com/brstechnicalstudio
+  Copyright (c) 2019. All rights reserved
+  -->
+<resources>
+    <declare-styleable name="ds" >
+
+        <attr name="backgroundcolor" format="color" />
+        <attr name="cardbackground" format="color" />
+        <attr name="textcolor" format="color" />
+        <attr name="tintcolor" format="color" />
+        <attr name="buttoncolor" format="color" />
+
+    </declare-styleable>
+</resources>
